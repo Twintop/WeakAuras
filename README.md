@@ -1,2 +1,2 @@
 # WeakAuras
-WeakAuras for World of Warcraft. These are LUA string exports of individual auras.
+WeakAuras for World of Warcraft. These are LUA table exports of individual auras and groups.
